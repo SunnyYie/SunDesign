@@ -1,8 +1,8 @@
-import { defineConfig } from 'dumi';
+import { defineConfig } from 'dumi'
 
 export default defineConfig({
   outputPath: 'docs-dist',
   themeConfig: {
-    name: '1.22.19',
+    name: '0.0.1',
   },
-});
+})

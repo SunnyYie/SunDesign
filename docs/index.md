@@ -1,22 +1,22 @@
 ---
 hero:
-  title: library
-  description: SunDesign
+  title: SunDesign
+  description: 基于React，面向设计师和开发者的组件库
   actions:
-    - text: Hello
-      link: /
-    - text: World
-      link: /
+    - text: 指南
+      link: /guide
+    - text: 组件
+      link: /components/foo
 features:
-  - title: Hello
+  - title: 指南
     emoji: 💎
-    description: Put hello description here
-  - title: World
+    description: 了解设计指南，帮助产品设计人员搭建逻辑清晰、结构合理且高效易用的产品。
+  - title: 组件
     emoji: 🌈
-    description: Put world description here
-  - title: '!'
+    description: 使用组件 Demo 快速体验交互细节；使用前端框架封装的代码帮助工程师快速开发。
+  - title: '资源'
     emoji: 🚀
-    description: Put ! description here
+    description: 下载相关资源，用其快速搭建页面原型或高保真视觉稿，提升产品设计效率。
 ---
 
-1.22.19
+0.0.1

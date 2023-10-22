@@ -1,9 +1,11 @@
-# 1.22.19
+# 0.0.1
 
-[![NPM version](https://img.shields.io/npm/v/1.22.19.svg?style=flat)](https://npmjs.org/package/1.22.19)
-[![NPM downloads](http://img.shields.io/npm/dm/1.22.19.svg?style=flat)](https://npmjs.org/package/1.22.19)
+[![NPM version](https://img.shields.io/npm/v/0.0.1.svg?style=flat)](https://npmjs.org/package/0.0.1)
+[![NPM downloads](http://img.shields.io/npm/dm/0.0.1.svg?style=flat)](https://npmjs.org/package/0.0.1)
 
 SunDesign
+
+技术栈：React + dumi + redux + react router
 
 ## Usage
 
