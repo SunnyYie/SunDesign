@@ -1,4 +1,4 @@
-# Foo
+# Components
 
 This is an example component.
 

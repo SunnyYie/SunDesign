@@ -1,5 +1,10 @@
-import React, { type FC } from 'react';
+import React from 'react';
 
-const Foo: FC<{ title: string }> = (props) => <h4>{props.title}</h4>;
+interface FooProps {
+    title: string
+}
 
-export default Foo;
+export default function Foo({ title }: FooProps) {
+    return <h4>{title}</h4>;
+}
+
